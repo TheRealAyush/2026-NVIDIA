@@ -111,8 +111,8 @@ Please see the [Deliverables Checklist](/team-submissions/README.md) in the team
 ### CODA
 * Conductor Quantum is providing 100 credits to their [CODA Platform](https://conductorquantum.substack.com/p/coda-natural-language-quantum-computing?utm_campaign=post&utm_medium=web&triedRedirect=true%2B) for the first 100 teams that complete Phase 1 of the NVIDIA challenge!
 
-* CODA [Demo](https://youtu.be/MocBUZlQlmU?si=c2GXTKb1dosla4PW
-)
+* CODA [Demo](https://youtu.be/MocBUZlQlmU?si=c2GXTKb1dosla4PW)
+* CODA [MCP](https://pypi.org/project/coda-mcp/)
 
 ## Accessing Material Post Challenge
 
