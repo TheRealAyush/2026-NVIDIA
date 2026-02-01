@@ -62,6 +62,12 @@ team-submissions/
 - AI_REPORT.md  
   AI usage, verification strategy, and failure analysis
 
+- NVIDIA_IQuHACK_2026_LABS_Ayush.pdf  
+  Slide deck
+
+- NVIDIA_IQuHACK_2026_LABS_Ayush.mp4  
+  Voiceover for slide deck
+
 - README.md  
   This file
 
