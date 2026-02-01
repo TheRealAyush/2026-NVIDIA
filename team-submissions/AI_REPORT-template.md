@@ -1,10 +1,3 @@
-> **Note to Students:** > The questions and examples provided in the specific sections below are **prompts to guide your thinking**, not a rigid checklist. 
-> * **Adaptability:** If a specific question doesn't fit your strategy, you may skip or adapt it.
-> * **Depth:** You are encouraged to go beyond these examples. If there are other critical technical details relevant to your specific approach, please include them.
-> * **Goal:** The objective is to convince the reader that you have employed AI agents in a thoughtful way.
-
-**Required Sections:**
-
 1. **The Workflow:** How did you organize your AI agents? (e.g., "We used a Cursor agent for coding and a separate ChatGPT instance for documentation").
 We used AI as an engineering assistant rather than an autonomous code generator. The workflow was iterative and human-in-the-loop throughout the project.
 
